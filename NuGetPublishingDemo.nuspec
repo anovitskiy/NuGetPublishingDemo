@@ -12,6 +12,6 @@
   <dependencies />
   </metadata>
   <files>
-    <file src="Bin\OpenTable.NuGetPublishingDemoLibrary.dll" target="lib\OpenTable.NuGetPublishingDemoLibrary.dll" />
+    <file src="Bin\OpenTable.NuGetPublishingDemoLibrary.dll" target="lib\net40\OpenTable.NuGetPublishingDemoLibrary.dll" />
   </files>
 </package>

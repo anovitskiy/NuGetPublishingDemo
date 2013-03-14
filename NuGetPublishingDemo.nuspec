@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>0.00</version>
+    <authors>OpenTable</authors>
+    <owners>OpenTable</owners>
+    <id>OpenTable.NuGetPublishingDemoLibrary</id>
+    <title>OpenTable.NuGetPublishingDemoLibrary</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuGet publishing demo library</description>
+    <copyright>Copyright OpenTable 2013</copyright>
+  <dependencies />
+  </metadata>
+  <files>
+    <file src="Bin\OpenTable.NuGetPublishingDemoLibrary.dll" target="lib\OpenTable.NuGetPublishingDemoLibrary.dll" />
+  </files>
+</package>
